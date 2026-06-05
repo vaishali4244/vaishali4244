@@ -8,8 +8,8 @@ I build **scalable, high-performance web applications** with a strong focus on *
 
 ## 🔥 About Me
 
-- 🧑‍💻 3.7+ years of experience in Frontend Development  
-- ⚛️ Specialized in **React.js, Next.js, TypeScript**  
+- 🧑‍💻 4 years of experience in Web Development focused in Frontend 
+- ⚛️ Specialized in **React.js, Next.js, TypeScript, Node.js**  
 - 🎯 Passionate about building **real-world products**, not just features  
 - 🚀 Love optimizing performance, improving UX, and solving complex UI problems  
 - 🌱 Currently expanding into **Node.js & backend development** to grow as a **full-stack engineer**  
@@ -30,7 +30,8 @@ I build **scalable, high-performance web applications** with a strong focus on *
 
 **Backend (Learning & Exploring)**
 - Node.js, Express.js  
-- API design & server-side logic  
+- API design & server-side logic
+- Postman, Firebase store  
 
 **Tools & Workflow**
 - Git, GitHub
